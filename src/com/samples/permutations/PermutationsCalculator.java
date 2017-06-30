@@ -8,9 +8,9 @@ import java.util.List;
  * Created by avezra on 6/28/2017.
  */
 public class PermutationsCalculator {
-    public static ArrayList<List<Integer>> Calc(Integer[] input)
+    public static List<List<Integer>> Calc(Integer[] input)
     {
-        ArrayList<List<Integer>> ret = new ArrayList<>();
+        List<List<Integer>> ret = new ArrayList<>();
 
         CalcRecursive(ret, new ArrayList<>(Arrays.asList(input)), new ArrayList<>());
         return ret;
@@ -25,10 +25,10 @@ public class PermutationsCalculator {
         }
 
         for (int i = 0; i < input.size(); i++) {
-            ArrayList<Integer> newBuffer = new ArrayList<>(buffer);
+            List<Integer> newBuffer = new ArrayList<>(buffer);
             newBuffer.add(input.get(i));
 
-            ArrayList<Integer> reducedInput = new ArrayList<>(input);
+            List<Integer> reducedInput = new ArrayList<>(input);
             reducedInput.remove(i);
             CalcRecursive(ret, reducedInput, newBuffer);
         }

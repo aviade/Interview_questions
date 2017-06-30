@@ -14,7 +14,7 @@ public class PermutationsCalculatorTest {
     @Test
     public void calc_twoItems() throws Exception {
         final Integer[] input = {3, 5};
-        final ArrayList<List<Integer>> list = PermutationsCalculator.Calc(input);
+        final List<List<Integer>> list = PermutationsCalculator.Calc(input);
 
         int expectedCount = getExpectedCount(input);
 
@@ -27,7 +27,7 @@ public class PermutationsCalculatorTest {
     @Test
     public void calc_threeItems() throws Exception {
         final Integer[] input = {3, 5, 8};
-        final ArrayList<List<Integer>> list = PermutationsCalculator.Calc(input);
+        final List<List<Integer>> list = PermutationsCalculator.Calc(input);
 
         int expectedCount = getExpectedCount(input);
 
@@ -44,7 +44,7 @@ public class PermutationsCalculatorTest {
     @Test
     public void calc_emptyInput() throws Exception {
         final Integer[] input = {};
-        final ArrayList<List<Integer>> list = PermutationsCalculator.Calc(input);
+        final List<List<Integer>> list = PermutationsCalculator.Calc(input);
 
         int expectedCount = getExpectedCount(input);
 
