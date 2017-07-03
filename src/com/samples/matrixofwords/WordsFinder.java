@@ -21,14 +21,14 @@ public class WordsFinder {
         for (int row = 0; row < rows; row++) {
             for (int column = 0; column < columns; column++) {
                 StringBuilder buffer = new StringBuilder();
-                FindWordRecursive(matrix, lookupList, row, column, buffer, result);
+                findWordRecursive(matrix, lookupList, row, column, buffer, result);
             }
         }
 
         return result;
     }
 
-    private static void FindWordRecursive(
+    private static void findWordRecursive(
             Matrix matrix,
             String[] lookupList,
             int row,
@@ -48,22 +48,22 @@ public class WordsFinder {
 
         // Check if we found the word
         final String newWord = newBuffer.toString();
-        Boolean wordFound = CheckIfWordInList(newWord, lookupList);
+        Boolean wordFound = checkIfWordInList(newWord, lookupList);
         if (wordFound){
             result.add(newWord);
         }
 
         // Look down
-        FindWordRecursive(matrix, lookupList, row+1, column, newBuffer, result);
+        findWordRecursive(matrix, lookupList, row+1, column, newBuffer, result);
 
         // Look right
-        FindWordRecursive(matrix, lookupList, row, column+1, newBuffer, result);
+        findWordRecursive(matrix, lookupList, row, column+1, newBuffer, result);
 
         // Look diagonal
-        FindWordRecursive(matrix, lookupList, row+1, column+1, newBuffer, result);
+        findWordRecursive(matrix, lookupList, row+1, column+1, newBuffer, result);
     }
 
-    private static Boolean CheckIfWordInList(String s, String[] lookupList) {
+    private static Boolean checkIfWordInList(String s, String[] lookupList) {
         for (String lookupItem : lookupList) {
             if (lookupItem.equals(s)) {
                 return true;
