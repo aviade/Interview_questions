@@ -19,6 +19,16 @@ public class StringListFinderTest {
     }
 
     @Test
+    public void testFind_pangram() throws CharNotFoundException {
+        char[] arr = "abcdefghijklmnopqrstuvwxyz".toCharArray();
+        String input = "The quick brown fox jumps over the lazy dog";
+        final StringListFinderResult result = StringListFinder.find(input, arr);
+
+        assertEquals(result.minIndex, 4);
+        assertEquals(result.maxIndex, 42);
+    }
+
+    @Test
     public void testFind_emptyChars() throws CharNotFoundException {
         char[] arr = new char[] {  };
         String input = "";
