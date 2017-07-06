@@ -42,6 +42,16 @@ public class PermutationsCalculatorTest {
     }
 
     @Test
+    public void calc_fiveItems() throws Exception {
+        final Integer[] input = {3, 5, 8, 9, 10};
+        final List<List<Integer>> list = PermutationsCalculator.Calc(input);
+
+        int expectedCount = getExpectedCount(input);
+
+        assertEquals(expectedCount, list.size());
+    }
+
+    @Test
     public void calc_emptyInput() throws Exception {
         final Integer[] input = {};
         final List<List<Integer>> list = PermutationsCalculator.Calc(input);
