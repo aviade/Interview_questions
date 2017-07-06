@@ -2,7 +2,6 @@ package com.samples.permutations;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.Assert.*;
@@ -14,7 +13,7 @@ public class PermutationsCalculatorTest {
     @Test
     public void calc_twoItems() throws Exception {
         final Integer[] input = {3, 5};
-        final List<List<Integer>> list = PermutationsCalculator.Calc(input);
+        final List<List<Integer>> list = PermutationsCalculator.calc(input);
 
         int expectedCount = getExpectedCount(input);
 
@@ -27,7 +26,7 @@ public class PermutationsCalculatorTest {
     @Test
     public void calc_threeItems() throws Exception {
         final Integer[] input = {3, 5, 8};
-        final List<List<Integer>> list = PermutationsCalculator.Calc(input);
+        final List<List<Integer>> list = PermutationsCalculator.calc(input);
 
         int expectedCount = getExpectedCount(input);
 
@@ -44,7 +43,7 @@ public class PermutationsCalculatorTest {
     @Test
     public void calc_fiveItems() throws Exception {
         final Integer[] input = {3, 5, 8, 9, 10};
-        final List<List<Integer>> list = PermutationsCalculator.Calc(input);
+        final List<List<Integer>> list = PermutationsCalculator.calc(input);
 
         int expectedCount = getExpectedCount(input);
 
@@ -54,7 +53,7 @@ public class PermutationsCalculatorTest {
     @Test
     public void calc_emptyInput() throws Exception {
         final Integer[] input = {};
-        final List<List<Integer>> list = PermutationsCalculator.Calc(input);
+        final List<List<Integer>> list = PermutationsCalculator.calc(input);
 
         int expectedCount = getExpectedCount(input);
 

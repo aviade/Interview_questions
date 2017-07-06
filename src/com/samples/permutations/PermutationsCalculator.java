@@ -8,15 +8,15 @@ import java.util.List;
  * Created by avezra on 6/28/2017.
  */
 public class PermutationsCalculator {
-    public static List<List<Integer>> Calc(Integer[] input)
+    public static List<List<Integer>> calc(Integer[] input)
     {
         List<List<Integer>> ret = new ArrayList<>();
 
-        CalcRecursive(ret, new ArrayList<>(Arrays.asList(input)), new ArrayList<>());
+        calcRecursive(ret, new ArrayList<>(Arrays.asList(input)), new ArrayList<>());
         return ret;
     }
 
-    private static void CalcRecursive(List<List<Integer>> ret, List<Integer> input, List<Integer> buffer) {
+    private static void calcRecursive(List<List<Integer>> ret, List<Integer> input, List<Integer> buffer) {
         if (input.size() == 1)
         {
             buffer.add(input.get(0));
@@ -30,7 +30,7 @@ public class PermutationsCalculator {
 
             List<Integer> reducedInput = new ArrayList<>(input);
             reducedInput.remove(i);
-            CalcRecursive(ret, reducedInput, newBuffer);
+            calcRecursive(ret, reducedInput, newBuffer);
         }
     }
 }
