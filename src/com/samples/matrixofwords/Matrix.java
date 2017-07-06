@@ -16,4 +16,11 @@ public class Matrix {
     public Character get(int row, int column) {
         return matrix[row][column];
     }
+
+    public Boolean isInRange(int row, int column) {
+        return row >= 0 &&
+                column >=0 &&
+                row < rows &&
+                column < columns;
+    }
 }
