@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by avezra on 7/6/2017.
  */
-public class ParenthesesBuilderRecursive implements ParenthesesBuilder{
+public class ParenthesesBuilderRecursive implements ParenthesesBuilder {
     @Override
     public String[] getPairs(int n) {
         /*

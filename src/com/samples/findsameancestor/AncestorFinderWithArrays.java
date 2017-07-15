@@ -8,9 +8,9 @@ import java.util.*;
  * Created by avezra on 6/30/2017.
  */
 public class AncestorFinderWithArrays implements AncestorFinder {
-    public BinaryTreeNode findFirstAncestor(BinaryTreeNode node, int n1, int n2) {
-        Stack<BinaryTreeNode> list1 = new Stack<>();
-        Stack<BinaryTreeNode> list2 = new Stack<>();
+    public BinaryTreeNode<Integer> findFirstAncestor(BinaryTreeNode<Integer> node, int n1, int n2) {
+        Stack<BinaryTreeNode<Integer>> list1 = new Stack<>();
+        Stack<BinaryTreeNode<Integer>> list2 = new Stack<>();
 
         getPath(list1, node, n1);
         getPath(list2, node, n2);
@@ -35,7 +35,7 @@ public class AncestorFinderWithArrays implements AncestorFinder {
         return ancestor;
     }
 
-    private static Boolean getPath(Stack<BinaryTreeNode> list, BinaryTreeNode node, int data) {
+    private static Boolean getPath(Stack<BinaryTreeNode<Integer>> list, BinaryTreeNode<Integer> node, int data) {
         if (node == null)
         {
             return false;

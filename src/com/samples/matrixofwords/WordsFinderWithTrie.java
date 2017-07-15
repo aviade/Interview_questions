@@ -1,5 +1,6 @@
 package com.samples.matrixofwords;
 
+import com.samples.core.Matrix;
 import com.samples.core.TrieNode;
 
 import java.util.ArrayList;
@@ -12,7 +13,7 @@ public class WordsFinderWithTrie implements WordsFinder {
     @Override
     public List<String> findWordsInMatrix(Matrix matrix, String[] lookupList) {
         List<String> result = new ArrayList<>();
-        if (matrix.rows == 0 || matrix.columns == 0)
+        if (matrix.getRows() == 0 || matrix.getColumns() == 0)
         {
             return result;
         }
@@ -43,8 +44,8 @@ public class WordsFinderWithTrie implements WordsFinder {
 
     private TrieNode buildTrie(Matrix matrix) {
         TrieNode trie = new TrieNode(null);
-        final int rows = matrix.rows;
-        final int columns = matrix.columns;
+        final int rows = matrix.getRows();
+        final int columns = matrix.getColumns();
 
         for (int row = 0; row < rows; row++) {
             for (int column = 0; column < columns; column++) {

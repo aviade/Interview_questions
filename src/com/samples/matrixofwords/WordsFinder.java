@@ -1,5 +1,7 @@
 package com.samples.matrixofwords;
 
+import com.samples.core.Matrix;
+
 import java.util.List;
 
 /**

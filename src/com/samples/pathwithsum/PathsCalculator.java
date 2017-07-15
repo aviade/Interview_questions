@@ -6,11 +6,11 @@ import com.samples.core.BinaryTreeNode;
  * Created by avezra on 7/2/2017.
  */
 public class PathsCalculator {
-    public static int calcPathsToSum(BinaryTreeNode node, int sum) {
+    public static int calcPathsToSum(BinaryTreeNode<Integer> node, int sum) {
         return calcPathsToSumRecursive(node, sum);
     }
 
-    private static int calcPathsToSumRecursive(BinaryTreeNode node, int expectedSum) {
+    private static int calcPathsToSumRecursive(BinaryTreeNode<Integer> node, int expectedSum) {
         if (node == null) {
             return 0;
         }
@@ -25,11 +25,11 @@ public class PathsCalculator {
         return paths;
     }
 
-    private static int getPaths(BinaryTreeNode node, int expectedSum) {
+    private static int getPaths(BinaryTreeNode<Integer> node, int expectedSum) {
         return getPathsRecursive(node, expectedSum, 0);
     }
 
-    private static int getPathsRecursive(BinaryTreeNode node, int expectedSum, int currentSum) {
+    private static int getPathsRecursive(BinaryTreeNode<Integer> node, int expectedSum, int currentSum) {
         // Base case
         if (node == null) {
             return 0;

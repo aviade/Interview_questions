@@ -1,5 +1,7 @@
 package com.samples.matrixofwords;
 
+import com.samples.core.Matrix;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,8 +11,8 @@ import java.util.List;
 public class WordsFinderBruteForce implements WordsFinder{
     @Override
     public List<String> findWordsInMatrix(Matrix matrix, String[] lookupList){
-        final int rows = matrix.rows;
-        final int columns = matrix.columns;
+        final int rows = matrix.getRows();
+        final int columns = matrix.getColumns();
 
         if (rows == 0 || columns == 0)
         {

@@ -6,8 +6,8 @@ import com.samples.core.BinaryTreeNode;
  * Created by avezra on 6/30/2017.
  */
 public class AncestorFinderInPlace implements AncestorFinder {
-        public BinaryTreeNode findFirstAncestor(BinaryTreeNode node, int n1, int n2){
-            final BinaryTreeNode ancestor = findFirstAncestorRecursive(node, n1, n2);
+        public BinaryTreeNode<Integer> findFirstAncestor(BinaryTreeNode<Integer> node, int n1, int n2){
+            final BinaryTreeNode<Integer> ancestor = findFirstAncestorRecursive(node, n1, n2);
             // If none of the nodes exist in the tree, the recursion returns null
             if (ancestor == null)
             {
@@ -23,7 +23,7 @@ public class AncestorFinderInPlace implements AncestorFinder {
             return ancestor;
         }
 
-        private static BinaryTreeNode findFirstAncestorRecursive(BinaryTreeNode node, int n1, int n2) {
+        private static BinaryTreeNode findFirstAncestorRecursive(BinaryTreeNode<Integer> node, int n1, int n2) {
             // Base case
             if (node == null) {
                 return null;

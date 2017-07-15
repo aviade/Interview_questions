@@ -1,4 +1,4 @@
-package com.samples.matrixofwords;
+package com.samples.core;
 
 /**
  * Created by avezra on 6/29/2017.
@@ -14,7 +14,12 @@ public class Matrix {
     }
 
     public Character get(int row, int column) {
+
         return matrix[row][column];
+    }
+
+    public void set(int row, int column, char c) {
+        matrix[row][column] = c;
     }
 
     public Boolean isInRange(int row, int column) {
@@ -23,4 +28,13 @@ public class Matrix {
                 row < rows &&
                 column < columns;
     }
+
+    public int getRows() {
+        return rows;
+    }
+
+    public int getColumns() {
+        return columns;
+    }
+
 }

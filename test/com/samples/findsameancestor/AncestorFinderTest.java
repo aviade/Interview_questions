@@ -15,7 +15,7 @@ public class AncestorFinderTest {
     public void findFirstAncestor_ancestorIsRoot() throws Exception {
         AncestorFinder ancestorFinder = createFinder();
 
-        BinaryTreeNode tree = createTree();
+        BinaryTreeNode<Integer> tree = createTree();
         final BinaryTreeNode ancestor = ancestorFinder.findFirstAncestor(tree, 9, 11);
         assertEquals(1, ancestor.getData());
     }
@@ -60,12 +60,12 @@ public class AncestorFinderTest {
     public void findFirstAncestor_emptyTree() throws Exception {
         AncestorFinder ancestorFinder = createFinder();
 
-        BinaryTreeNode tree = createTree();
+        BinaryTreeNode<Integer> tree = createTree();
         final BinaryTreeNode ancestor = ancestorFinder.findFirstAncestor(tree, 14, 13);
         assertNull(ancestor);
     }
 
-    private static BinaryTreeNode createTree() {
+    private static BinaryTreeNode<Integer> createTree() {
         final BinaryTreeNode binaryTreeNode = new BinaryTreeNode(1);
         // Root nodes
         final BinaryTreeNode n2 = new BinaryTreeNode(2);
