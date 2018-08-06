@@ -5,14 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28e3b50b-4c4c-4cbb-b4e7-8bde5a3d3481" name="Default" comment="Build configuration files">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/avezra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/samples/treesearch/TreeSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/samples/treesearch/TreeSearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/samples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/samples/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/samples/core/BinaryTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/samples/core/BinaryTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/bestprofit/BestProfitCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/bestprofit/SellBuyDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/bestprofit/StockInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/core/BinaryTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/core/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/core/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/fastroute/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/fastroute/RouteFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/findsameancestor/AncestorFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/findsameancestor/AncestorFinderInPlace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/findsameancestor/AncestorFinderWithArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/intmultiplication/IntMultiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/magicindex/MagicIndexFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/magicindex/MagicIndexFinderBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/magicindex/MagicIndexFinderOptimized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/matrixofwords/WordsFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/matrixofwords/WordsFinderBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/matrixofwords/WordsFinderWithTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/nextinordernode/TreeDepthFirstTraversals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/paintfill/MatrixPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/paintfill/PaintFiller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/paintfill/PaintFillerBreathFirst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/paintfill/PaintFillerRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/paintfill/PaintFillerTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/parens/ParenthesesBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/parens/ParenthesesBuilderBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/parens/ParenthesesBuilderRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/parens/ParenthesesValidation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/pathwithsum/PathsCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/permutations/PermutationsCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/powerset/PowerSetCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/powerset/PowerSetCalculatorBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/powerset/PowerSetCalculatorRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/stringfinder/CharNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/stringfinder/StringListFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/stringfinder/StringListFinderResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/towerofhanoi/MoveDiskException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/towerofhanoi/TowerMover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/treesearch/TreeSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/triplestep/WaysToClimbCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/triplestep/WaysToClimbCalculatorBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/triplestep/WaysToClimbCalculatorIterative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/triplestep/WaysToClimbCalculatorMemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/bestprofit/BestProfitCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/fastroute/FastRouteFinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/findsameancestor/AncestorFinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/intmultiplication/IntMultiplyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/magicindex/MagicIndexFinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/matrixofwords/FindWordsTest$FinderType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/matrixofwords/FindWordsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/nextinordernode/TreeDepthFirstTraversalsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/paintfill/PaintFillerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/parens/ParenthesesBuilderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/pathwithsum/PathsCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/permutations/PermutationsCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/powerset/PowerSetCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/stringfinder/StringListFinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/towerofhanoi/TowerMoverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/treesearch/TreeSearchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/triplestep/PossibleStepsCalculatorTest$Approach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/triplestep/PossibleStepsCalculatorTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +80,17 @@
     <favorites_list name="interview" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="Matrix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/samples/core/Matrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-5" />
     <option name="width" value="761" />
     <option name="height" value="966" />
@@ -73,7 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,85 +151,12 @@
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="fastroute" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="findsameancestor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="matrixofwords" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="nextinordernode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="parens" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="pathwithsum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="treesearch" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -423,24 +415,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4989339" weight="0.29956427" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.26599148" side_tool="true" visible="true" weight="0.31419623" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.33333334" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73400855" weight="0.27557412" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49965635" weight="0.29952267" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49840087" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825785" visible="true" weight="0.15351813" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49965635" weight="0.3293556" />
-      <window_info id="Structure" order="1" sideWeight="0.5017422" side_tool="true" weight="0.19793814" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.84150326" visible="true" weight="0.22921109" />
+      <window_info id="Structure" order="1" sideWeight="0.15849674" side_tool="true" weight="0.22921109" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -451,6 +442,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49965635" weight="0.3293556" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4989339" weight="0.29956427" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -485,35 +478,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.graphics/javafx/scene/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7701">
-          <caret line="453" column="27" selection-start-line="453" selection-start-column="27" selection-end-line="453" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/samples/core/BinaryTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="method#setParent#0;class#BinaryTreeNode#0" />
-            <element signature="e#2477#2478#0" expanded="true" />
-            <element signature="e#2531#2532#0" expanded="true" />
-            <element signature="e#2789#2790#0" expanded="true" />
-            <element signature="e#2821#2822#0" expanded="true" />
-            <element signature="e#2866#2867#0" expanded="true" />
-            <element signature="e#2917#2918#0" expanded="true" />
-            <element signature="e#3423#3424#0" expanded="true" />
-            <element signature="e#3468#3469#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,23 +506,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/samples/shortestpath/ShortPathBreathFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/shortestpath/ShortPathBreathFirst.java" />
     <entry file="file://$PROJECT_DIR$/test/com/samples/pathwithsum/PathsCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,9 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -595,9 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,16 +673,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/samples/shortestpath/ShortPathBreathFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="65" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/shortestpath/ShortPathBreathFirst.java" />
     <entry file="file://$PROJECT_DIR$/src/com/samples/nextinordernode/TreeDepthFirstTraversals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -744,9 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,21 +702,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/samples/core/NonBinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/core/NonBinaryTreeNode.java" />
     <entry file="file://$PROJECT_DIR$/src/com/samples/matrixofwords/WordsFinder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -804,29 +728,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/samples/pathlenght/SubTreeFinderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="true" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/samples/pathlenght/SubTreeFinderTest.java" />
     <entry file="file://$PROJECT_DIR$/test/com/samples/stringfinder/StringListFinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" lean-forward="true" selection-start-line="12" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -858,9 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="237" selection-start-line="237" selection-end-line="237" />
-          <folding>
-            <element signature="e#8323#8324#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,17 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="169" column="5" lean-forward="true" selection-start-line="169" selection-end-line="170" />
-          <folding>
-            <element signature="method#setParent#0;class#BinaryTreeNode#0" />
-            <element signature="e#2477#2478#0" expanded="true" />
-            <element signature="e#2531#2532#0" expanded="true" />
-            <element signature="e#2789#2790#0" expanded="true" />
-            <element signature="e#2821#2822#0" expanded="true" />
-            <element signature="e#2866#2867#0" expanded="true" />
-            <element signature="e#2917#2918#0" expanded="true" />
-            <element signature="e#3423#3424#0" expanded="true" />
-            <element signature="e#3468#3469#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -889,6 +784,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml" />
+    <entry file="file://$PROJECT_DIR$/src/com/samples/core/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
