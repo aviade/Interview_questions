@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/test/com/samples/fastroute/FastRouteFinderTest.java" line="27" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28e3b50b-4c4c-4cbb-b4e7-8bde5a3d3481" name="Default" comment="Build configuration files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/bestprofit/BestProfitCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/bestprofit/SellBuyDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/bestprofit/StockInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/core/BinaryTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/core/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/core/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/fastroute/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/fastroute/RouteFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/findsameancestor/AncestorFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/findsameancestor/AncestorFinderInPlace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/findsameancestor/AncestorFinderWithArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/intmultiplication/IntMultiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/magicindex/MagicIndexFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/magicindex/MagicIndexFinderBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/magicindex/MagicIndexFinderOptimized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/matrixofwords/WordsFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/matrixofwords/WordsFinderBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/matrixofwords/WordsFinderWithTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/nextinordernode/TreeDepthFirstTraversals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/paintfill/MatrixPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/paintfill/PaintFiller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/paintfill/PaintFillerBreathFirst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/paintfill/PaintFillerRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/paintfill/PaintFillerTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/parens/ParenthesesBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/parens/ParenthesesBuilderBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/parens/ParenthesesBuilderRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/parens/ParenthesesValidation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/pathwithsum/PathsCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/permutations/PermutationsCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/powerset/PowerSetCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/powerset/PowerSetCalculatorBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/powerset/PowerSetCalculatorRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/stringfinder/CharNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/stringfinder/StringListFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/stringfinder/StringListFinderResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/towerofhanoi/MoveDiskException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/towerofhanoi/TowerMover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/treesearch/TreeSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/triplestep/WaysToClimbCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/triplestep/WaysToClimbCalculatorBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/triplestep/WaysToClimbCalculatorIterative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview/com/samples/triplestep/WaysToClimbCalculatorMemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/bestprofit/BestProfitCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/fastroute/FastRouteFinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/findsameancestor/AncestorFinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/intmultiplication/IntMultiplyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/magicindex/MagicIndexFinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/matrixofwords/FindWordsTest$FinderType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/matrixofwords/FindWordsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/nextinordernode/TreeDepthFirstTraversalsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/paintfill/PaintFillerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/parens/ParenthesesBuilderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/pathwithsum/PathsCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/permutations/PermutationsCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/powerset/PowerSetCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/stringfinder/StringListFinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/towerofhanoi/TowerMoverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/treesearch/TreeSearchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/triplestep/PossibleStepsCalculatorTest$Approach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/interview/com/samples/triplestep/PossibleStepsCalculatorTest.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="interview" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Matrix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/samples/core/Matrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ArrayList</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/samples/fastroute/RouteFinder.java" />
+        <option value="$PROJECT_DIR$/src/com/samples/shortestpath/ShortPathBreathFirst.java" />
+        <option value="$PROJECT_DIR$/src/com/samples/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/samples/core/NonBinaryTreeNode.java" />
+        <option value="$PROJECT_DIR$/test/com/samples/subtrees/SubTreeFinderTest.java" />
+        <option value="$PROJECT_DIR$/src/com/samples/subtrees/SubTreeFinder.java" />
+        <option value="$PROJECT_DIR$/src/com/samples/subtrees/PathFinder.java" />
+        <option value="$PROJECT_DIR$/test/com/samples/pathlenght/SubTreeFinderTest.java" />
+        <option value="$PROJECT_DIR$/src/com/samples/pathlenght/PathFinder.java" />
+        <option value="$PROJECT_DIR$/test/com/samples/pathlenght/PathFinderTest.java" />
+        <option value="$PROJECT_DIR$/test/com/samples/treesearch/PathFinderTest.java" />
+        <option value="$PROJECT_DIR$/src/com/samples/core/BinaryTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/samples/treesearch/TreeSearch.java" />
+        <option value="$PROJECT_DIR$/test/com/samples/treesearch/TreeSearchTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="width" value="761" />
+    <option name="height" value="966" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.samples.pathlenght" />
+      <recent name="com.samples.subtrees" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.samples.shortestpath" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\avezra\source\repos\personal\interview\src\com\samples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samples.Main" />
+      <module name="interview" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in interview" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FastRouteFinderTest.findFastestRoute_optimalOpened" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samples.fastroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.samples.fastroute" />
+      <option name="MAIN_CLASS_NAME" value="com.samples.fastroute.FastRouteFinderTest" />
+      <option name="METHOD_NAME" value="findFastestRoute_optimalOpened" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TreeSearchTest.testFind_duplicateStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samples.treesearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.samples.treesearch" />
+      <option name="MAIN_CLASS_NAME" value="com.samples.treesearch.TreeSearchTest" />
+      <option name="METHOD_NAME" value="testFind_duplicateStrings" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samples.treesearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.samples.treesearch" />
+      <option name="MAIN_CLASS_NAME" value="com.samples.treesearch.TreeSearchTest" />
+      <option name="METHOD_NAME" value="testTreeSearch_findSubTreesThatMakeSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.FastRouteFinderTest.findFastestRoute_optimalOpened" />
+      <item itemvalue="JUnit.All in interview" />
+      <item itemvalue="JUnit.TreeSearchTest.testFind_duplicateStrings" />
+      <item itemvalue="JUnit.TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" />
+        <item itemvalue="JUnit.TreeSearchTest.testFind_duplicateStrings" />
+        <item itemvalue="JUnit.All in interview" />
+        <item itemvalue="JUnit.FastRouteFinderTest.findFastestRoute_optimalOpened" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28e3b50b-4c4c-4cbb-b4e7-8bde5a3d3481" name="Default" comment="" />
+      <created>1530723573218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530723573218</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Build configuration files">
+      <created>1530723956886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530723956886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TreeSearchTest_testTreeSearch_findSubTreesThatMakeSum - 2018.08.02 at 22h 16m 01s.xml">
+      <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeSearchTest_testTreeSearch_findSubTreesThatMakeSum - 2018.08.02 at 22h 28m 57s.xml">
+      <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeSearchTest_testTreeSearch_findSubTreesThatMakeSum - 2018.08.02 at 22h 33m 35s.xml">
+      <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeSearchTest_testTreeSearch_findSubTreesThatMakeSum - 2018.08.02 at 22h 52m 45s.xml">
+      <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeSearchTest_testTreeSearch_findSubTreesThatMakeSum - 2018.08.02 at 22h 56m 45s.xml">
+      <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeSearchTest_testTreeSearch_findSubTreesThatMakeSum - 2018.08.02 at 23h 14m 47s.xml">
+      <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeSearchTest_testTreeSearch_findSubTreesThatMakeSum - 2018.08.02 at 23h 18m 55s.xml">
+      <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeSearchTest_testTreeSearch_findSubTreesThatMakeSum - 2018.08.02 at 23h 31m 49s.xml">
+      <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeSearchTest_testTreeSearch_findSubTreesThatMakeSum - 2018.08.02 at 23h 38m 09s.xml">
+      <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeSearchTest_testTreeSearch_findSubTreesThatMakeSum - 2018.08.02 at 23h 38m 27s.xml">
+      <configuration name="TreeSearchTest.testTreeSearch_findSubTreesThatMakeSum" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.33333334" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73400855" weight="0.27557412" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49840087" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.84150326" visible="true" weight="0.22921109" />
+      <window_info id="Structure" order="1" sideWeight="0.15849674" side_tool="true" weight="0.22921109" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7594502" weight="0.43556085" />
+      <window_info id="Favorites" order="2" sideWeight="0.5017422" side_tool="true" weight="0.19793814" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49965635" weight="0.3293556" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4989339" weight="0.29956427" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Build configuration files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build configuration files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/com/samples/fastroute/FastRouteFinderTest.java</url>
+          <line>19</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/samples/treesearch/TreeSearch.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/com/samples/treesearch/TreeSearchTest.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/samples/core/BinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/fastroute/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/samples/fastroute/FastRouteFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/magicindex/MagicIndexFinderOptimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/shortestpath/ShortPathBreathFirst.java" />
+    <entry file="file://$PROJECT_DIR$/test/com/samples/pathwithsum/PathsCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/avezra.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/triplestep/WaysToClimbCalculatorBruteForce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/interview.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/bestprofit/ProfitCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/interview.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/samples/pathwithsum/PathsCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/avezra.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/triplestep/WaysToClimbCalculatorBruteForce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/bestprofit/ProfitCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/intmultiplication/IntMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/magicindex/MagicIndexFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/magicindex/MagicIndexFinderBruteForce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/magicindex/MagicIndexFinderOptimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/samples/fastroute/FastRouteFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/fastroute/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/paintfill/PaintFillerBreathFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.graphics/javafx/scene/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4794">
+          <caret line="453" column="27" selection-start-line="453" selection-start-column="27" selection-end-line="453" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/paintfill/MatrixPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/stringfinder/StringListFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/powerset/PowerSetCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/powerset/PowerSetCalculatorRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/findsameancestor/AncestorFinderInPlace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/fastroute/RouteFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/shortestpath/ShortPathBreathFirst.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/samples/nextinordernode/TreeDepthFirstTraversals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/findsameancestor/AncestorFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/core/TrieNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/core/NonBinaryTreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/samples/matrixofwords/WordsFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/matrixofwords/WordsFinderBruteForce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/samples/bestprofit/BestProfitCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/samples/parens/ParenthesesBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/samples/pathlenght/SubTreeFinderTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/com/samples/stringfinder/StringListFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="12" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/treesearch/TreeSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samples/core/BinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="169" column="5" lean-forward="true" selection-start-line="169" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/samples/treesearch/TreeSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml" />
+    <entry file="file://$PROJECT_DIR$/src/com/samples/core/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>interview</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

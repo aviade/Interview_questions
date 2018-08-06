@@ -12,5 +12,4 @@ public class Main {
         final StringListFinderResult result = StringListFinder.find(input, arr);
         System.out.print(result);
     }
-
 }
