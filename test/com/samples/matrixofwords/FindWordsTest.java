@@ -13,7 +13,7 @@ import static org.junit.Assert.assertArrayEquals;
 public class FindWordsTest {
     private static final FinderType FINDER_TYPE = FinderType.Trie;
     @Test
-    public void findWordsInMatrix_allWordsExist() throws Exception {
+    public void findWordsInMatrix_allWordsExist() {
         WordsFinder finder = createWordsFinder(FINDER_TYPE);
 
         char[][] matrix = getMatrix();
@@ -24,7 +24,7 @@ public class FindWordsTest {
     }
 
     @Test
-    public void findWordsInMatrix_someWordsExist() throws Exception {
+    public void findWordsInMatrix_someWordsExist() {
         WordsFinder finder = createWordsFinder(FINDER_TYPE);
 
         char[][] matrix = getMatrix();
@@ -37,7 +37,7 @@ public class FindWordsTest {
     }
 
     @Test
-    public void findWordsInMatrix_noWordExist() throws Exception {
+    public void findWordsInMatrix_noWordExist() {
         WordsFinder finder = createWordsFinder(FINDER_TYPE);
         char[][] matrix = getMatrix();
 
@@ -62,7 +62,7 @@ public class FindWordsTest {
         {
             return new WordsFinderBruteForce();
         }
-        return new WordsFinderWithTrie();
+        return new WordsFinderWithTrie(new TrieBuilderRecursive());
     }
 
     enum FinderType{
