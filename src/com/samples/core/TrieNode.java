@@ -5,15 +5,15 @@ import java.util.HashMap;
  * Created by avezra on 7/4/2017.
  */
 public class TrieNode {
-    Character data;
+    private Character data;
     private HashMap<Character, TrieNode> nodes = new HashMap<>();
 
     public TrieNode(Character data) {
         this.data = data;
     }
 
-    public Character getData() {
-        return data;
+    public TrieNode[] getNodes() {
+        return nodes.values().toArray(new TrieNode[0]);
     }
 
     public TrieNode getNode(Character key) {
@@ -28,5 +28,9 @@ public class TrieNode {
             nodes.put(key, node);
         }
         return node;
+    }
+
+    public void addChild(TrieNode child) {
+        nodes.put(child.data, child);
     }
 }

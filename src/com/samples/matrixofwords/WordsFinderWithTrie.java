@@ -19,7 +19,10 @@ public class WordsFinderWithTrie implements WordsFinder {
     @Override
     public List<String> findWordsInMatrix(Matrix matrix, String[] lookupList) {
         List<String> result = new ArrayList<>();
-        if (matrix.getRows() == 0 || matrix.getColumns() == 0)
+        int rows = matrix.getRows();
+        int columns = matrix.getColumns();
+
+        if (rows == 0 || columns == 0)
         {
             return result;
         }
@@ -33,8 +36,23 @@ public class WordsFinderWithTrie implements WordsFinder {
         }
         return result;
     }
-
     private Boolean isWordInTrie(String word, TrieNode trie) {
+        Boolean exist = isWordInTrieNode(word, trie);
+        if (exist){
+            return true;
+        }
+
+        for (TrieNode child : trie.getNodes()) {
+            exist = isWordInTrie(word, child);
+            if (exist){
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    private Boolean isWordInTrieNode(String word, TrieNode trie) {
         TrieNode nextNode = trie;
         for (int i = 0; i < word.length(); i++) {
             Character c = word.charAt(i);

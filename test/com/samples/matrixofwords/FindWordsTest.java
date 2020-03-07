@@ -62,7 +62,7 @@ public class FindWordsTest {
         {
             return new WordsFinderBruteForce();
         }
-        return new WordsFinderWithTrie(new TrieBuilderRecursive());
+        return new WordsFinderWithTrie(new TrieBuilder());
     }
 
     enum FinderType{

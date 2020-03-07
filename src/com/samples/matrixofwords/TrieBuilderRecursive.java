@@ -7,14 +7,7 @@ public class TrieBuilderRecursive implements ITrieBuilder{
     @Override
     public TrieNode buildTrie(Matrix matrix) {
         TrieNode trie = new TrieNode(null);
-        final int rows = matrix.getRows();
-        final int columns = matrix.getColumns();
-
-        for (int row = 0; row < rows; row++) {
-            for (int column = 0; column < columns; column++) {
-                buildTrieRecursive(matrix, trie, row, column);
-            }
-        }
+        buildTrieRecursive(matrix, trie, 0, 0);
         return trie;
     }
 
@@ -30,5 +23,4 @@ public class TrieBuilderRecursive implements ITrieBuilder{
         buildTrieRecursive(matrix, child, row, column + 1);
         buildTrieRecursive(matrix, child, row + 1, column + 1);
     }
-
 }
