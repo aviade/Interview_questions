@@ -5,7 +5,7 @@ import java.util.HashMap;
  * Created by avezra on 7/4/2017.
  */
 public class TrieNode {
-    private Character data;
+    Character data;
     private HashMap<Character, TrieNode> nodes = new HashMap<>();
 
     public TrieNode(Character data) {

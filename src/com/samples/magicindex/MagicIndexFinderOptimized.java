@@ -10,7 +10,7 @@ public class MagicIndexFinderOptimized implements MagicIndexFinder{
     }
 
     private int findMagicIndexRecursive(int[] array, int start, int end) {
-        // Case case
+        // Base case
         int delta = end - start;
         if (delta <= 2) {
             if (array[start] == start) {
